@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ManageBookDTO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+768e60ffd26fcfc99797e3f4975abd056f2057c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ManageBookDTO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ManageBookDTO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

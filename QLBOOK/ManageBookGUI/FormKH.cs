@@ -12,9 +12,16 @@ namespace ManageBookGUI
 {
     public partial class FormKH : Form
     {
-        public FormKH()
+        string TenKH;
+        public FormKH(string TenKH)
         {
             InitializeComponent();
+            this.TenKH = TenKH;
+        }
+
+        private void FormKH_Load(object sender, EventArgs e)
+        {
+            labelTenKH.Text = $"Chào mừng, {TenKH}!";
         }
     }
 }

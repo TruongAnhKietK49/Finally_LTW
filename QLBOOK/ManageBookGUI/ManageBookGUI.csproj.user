@@ -13,10 +13,13 @@
     <Compile Update="FormNV.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormSignUp.cs">
+    <Compile Update="FormSignInCustomer.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FromSignIn.cs">
+    <Compile Update="FormSignInEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSignUpCustomer.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

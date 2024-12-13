@@ -28,12 +28,33 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "FormNV";
+            labelTenNV = new Label();
+            SuspendLayout();
+            // 
+            // labelTenNV
+            // 
+            labelTenNV.AutoSize = true;
+            labelTenNV.Location = new Point(386, 184);
+            labelTenNV.Name = "labelTenNV";
+            labelTenNV.Size = new Size(68, 30);
+            labelTenNV.TabIndex = 0;
+            labelTenNV.Text = "label1";
+            // 
+            // FormNV
+            // 
+            AutoScaleDimensions = new SizeF(12F, 30F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(800, 450);
+            Controls.Add(labelTenNV);
+            Name = "FormNV";
+            Text = "FormNV";
+            Load += FormNV_Load;
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
+
+        private Label labelTenNV;
     }
 }

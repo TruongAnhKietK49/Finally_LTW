@@ -10,3 +10,7 @@ D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDA
 D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDAO\obj\Debug\net8.0\refint\MangeBookDAO.dll
 D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.pdb
 D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDAO\obj\Debug\net8.0\ref\MangeBookDAO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.sourcelink.json
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBoo.71C4E9FC.Up2Date

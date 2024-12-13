@@ -10,3 +10,4 @@ D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDT
 D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDTO\obj\Debug\net8.0\refint\ManageBookDTO.dll
 D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDTO\obj\Debug\net8.0\ManageBookDTO.pdb
 D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDTO\obj\Debug\net8.0\ref\ManageBookDTO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDTO\obj\Debug\net8.0\ManageBookDTO.sourcelink.json

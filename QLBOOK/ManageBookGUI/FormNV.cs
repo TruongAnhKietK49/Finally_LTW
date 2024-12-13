@@ -12,9 +12,16 @@ namespace ManageBookGUI
 {
     public partial class FormNV : Form
     {
-        public FormNV()
+        string TenNV;
+        public FormNV(string TenNV)
         {
             InitializeComponent();
+            this.TenNV = TenNV;
+        }
+
+        private void FormNV_Load(object sender, EventArgs e)
+        {
+            labelTenNV.Text = $"Chào mừng, {TenNV}!";
         }
     }
 }

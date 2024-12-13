@@ -10,3 +10,9 @@ D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookBu
 D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookBus\obj\Debug\net8.0\refint\ManageBookBus.dll
 D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookBus\obj\Debug\net8.0\ManageBookBus.pdb
 D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookBus\obj\Debug\net8.0\ref\ManageBookBus.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookBus\bin\Debug\net8.0\ManageBookDTO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookBus\bin\Debug\net8.0\MangeBookDAO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookBus\bin\Debug\net8.0\MangeBookDAO.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookBus\bin\Debug\net8.0\ManageBookDTO.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookBus\obj\Debug\net8.0\ManageBookBus.sourcelink.json
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookBus\obj\Debug\net8.0\ManageBo.98C5E0E5.Up2Date

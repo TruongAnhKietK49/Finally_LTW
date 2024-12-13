@@ -14,8 +14,6 @@ D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGU
 D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.FormKH.resources
 D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.FormMain.resources
 D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.FormNV.resources
-D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.FormSignUp.resources
-D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.FromSignIn.resources
 D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.csproj.GenerateResource.cache
 D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.GeneratedMSBuildEditorConfig.editorconfig
 D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.AssemblyInfoInputs.cache
@@ -27,3 +25,14 @@ D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGU
 D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.pdb
 D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.genruntimeconfig.cache
 D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ref\ManageBookGUI.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\ManageBookBus.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\ManageBookDTO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\MangeBookDAO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\ManageBookBus.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\MangeBookDAO.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\ManageBookDTO.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.Properties.Resources.resources
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.sourcelink.json
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.FormSignUpCustomer.resources
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.FormSignInCustomer.resources
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.FormSignInEmployee.resources
