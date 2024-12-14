@@ -35,6 +35,11 @@
         {
             MessageBox.Show("Những khiếu nại xin hãy gửi qua địa chỉ mail: thanhtientung@gmail.com để được giúp đỡ và sẽ nhanh chóng khắc phục!\n" +
                 "Xin lỗi vì sự bất tiện này!");
+        }   
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

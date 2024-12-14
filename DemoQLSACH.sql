@@ -9,13 +9,17 @@ Create Table Sach
 	NXB datetime Not Null,
 	TheLoai nvarchar(50) Not Null,
 )
+Drop Table Sach
+
 Create Table DichVu
 (
 	MaDV varchar(10) constraint DichVu_PK Primary Key,
 	TenDV nvarchar(20) Not Null,
-	MaSach varchar(10) constraint DV_MaSach_FK Foreign Key(MaSach) References Sach(MaSach),
+	MaSach varchar(10) constraint DV_MaSach_FK Foreign Key(MaSach) References Sach(MaSach) On delete cascade,
 	GiaTien float Not Null,
 )
+Drop Table DichVu
+
 Create Table KhachHang
 (
 	MaKH varchar(10) constraint MaKH_PK Primary Key,
@@ -26,6 +30,7 @@ Create Table KhachHang
 	Email nvarchar(100) Unique Not Null,
 	SDT nvarchar(10) Unique Not Null
 )
+Drop Table KhachHang
 
 Create Table GioHang 
 (
@@ -33,53 +38,57 @@ Create Table GioHang
     MaSach varchar(10) NOT NULL,
     SoLuong int NOT NULL,
     MaDV varchar(10) NOT NULL,
-    PRIMARY KEY (MaKH, MaSach, MaDV),
-    CONSTRAINT GH_MaKH_FK FOREIGN KEY (MaKH) REFERENCES KhachHang(MaKH),
-    CONSTRAINT GH_MaSach_FK FOREIGN KEY (MaSach) REFERENCES Sach(MaSach),
-    CONSTRAINT GH_MaDV_FK FOREIGN KEY (MaDV) REFERENCES DichVu(MaDV)
+    Primary Key (MaKH, MaSach, MaDV),
+    Constraint GH_MaKH_FK Foreign Key (MaKH) References KhachHang(MaKH) On delete no action,
+    Constraint GH_MaSach_FK Foreign Key (MaSach) References Sach(MaSach) On delete no action,
+    Constraint GH_MaDV_FK Foreign Key (MaDV) References DichVu(MaDV) On delete no action
 )
 Drop Table GioHang
 
 Create Table HoaDon
 (
     MaHD int identity(1,1) Primary Key,
-    MaKH VARCHAR(10) NOT NULL,
-    MaSach VARCHAR(10) NOT NULL,
-    MaDV VARCHAR(10) NOT NULL,
-    SoLuong INT NOT NULL,
-    ThanhTien FLOAT NOT NULL,
-    NgayMua DATETIME DEFAULT GETDATE(),
-    CONSTRAINT HD_MaKH_FK FOREIGN KEY (MaKH) REFERENCES KhachHang(MaKH),
-    CONSTRAINT HD_MaSach_FK FOREIGN KEY (MaSach) REFERENCES Sach(MaSach),
-    CONSTRAINT HD_MaDV_FK FOREIGN KEY (MaDV) REFERENCES DichVu(MaDV)
-);
+    MaKH varchar(10) NOT NULL,
+    MaSach varchar(10) NOT NULL,
+    MaDV varchar(10) NOT NULL,
+    SoLuong int NOT NULL,
+    ThanhTien float NOT NULL,
+    NgayMua datetime default GETDATE(),
+    Constraint HD_MaKH_FK Foreign Key (MaKH) References KhachHang(MaKH) On delete no action,
+    Constraint HD_MaSach_FK Foreign Key (MaSach) References Sach(MaSach) On delete no action,
+    Constraint HD_MaDV_FK Foreign Key (MaDV) References DichVu(MaDV) On delete no action
+)
+Drop Table HoaDon
 
-CREATE TABLE NhanVien
+Create Table NhanVien
 (
-    MaNV VARCHAR(10) PRIMARY KEY,
-    TenNV NVARCHAR(100) NOT NULL,
-    NgSinh DATETIME NOT NULL,
-    Phai NVARCHAR(10) NOT NULL,
-    DiaChi NVARCHAR(100) NOT NULL,
-    SDT NVARCHAR(10) UNIQUE NOT NULL,
-    Email NVARCHAR(100) UNIQUE NOT NULL,
-);
+    MaNV varchar(10) Primary Key,
+    TenNV nvarchar(100) NOT NULL,
+    NgSinh datetime NOT NULL,
+    Phai nvarchar(10) NOT NULL,
+    DiaChi nvarchar(100) NOT NULL,
+    SDT nvarchar(10) Unique NOT NULL,
+    Email nvarchar(100) Unique NOT NULL,
+)
+Drop Table NhanVien
 
 -- Chèn dữ liệu mẫu
 Select *From NhanVien
-INSERT INTO NhanVien (MaNV, TenNV, NgSinh, Phai, DiaChi, SDT, Email)
-VALUES
-('NV.001', N'Trần Văn A', '1990-01-15', N'Nam', N'TP HCM', '0901234567', 'vana@gmail.com'),
-('NV.002', N'Lê Thị B', '1995-03-20', N'Nữ', N'TP HCM', '0912234567', 'thib@gmail.com'),
-('NV.003', N'Nguyễn Văn C', '1992-07-10', N'Nam', N'TP HCM', '0921234567', 'vanc@gmail.com');
+Insert Into NhanVien (MaNV, TenNV, NgSinh, Phai, DiaChi, SDT, Email) Values
+('NV.001', N'Trương Anh Kiệt', '2005-09-10', N'Nam', N'TP HCM', '0123456789', 'kietta@gmail.com'),
+('NV.002', N'Nguyễn Thanh Tiền', '2005-06-16', N'Nam', N'TP HCM', '0853355115', 'tiennt@gmail.com'),
+('NV.003', N'Nguyễn Đỗ Thanh Phú', '2005-06-18', N'Nam', N'TP HCM', '0852852018', 'phundt@gmail.com'),
+('NV.004', N'Ngô Ý Nhi', '2005-01-25', N'Nữ', N'TP HCM', '0865778945', 'nhiny@gmail.com')
 
-ALTER TABLE Sach
-ADD MaNV VARCHAR(10) NOT NULL, -- Nhân viên thêm sách
-CONSTRAINT Sach_MaNV_FK FOREIGN KEY (MaNV) REFERENCES NhanVien(MaNV);
+Alter Table Sach Drop Constraint Sach_MaNV_FK;
+Alter Table Sach
+Add MaNV varchar(10) NOT NULL, -- Nhân viên thêm sách
+Constraint Sach_MaNV_FK Foreign Key (MaNV) References NhanVien(MaNV) On delete cascade;
 
-ALTER TABLE HoaDon
-ADD MaNV VARCHAR(10) NOT NULL, -- Nhân viên kiểm tra hóa đơn
-CONSTRAINT HD_MaNV_FK FOREIGN KEY (MaNV) REFERENCES NhanVien(MaNV);
+Alter Table HoaDon Drop Constraint HD_MaNV_FK;
+Alter Table HoaDon
+Add MaNV varchar(10) NOT NULL, -- Nhân viên kiểm tra hóa đơn
+Constraint HD_MaNV_FK Foreign Key (MaNV) References NhanVien(MaNV) On delete cascade;
 
 Delete From Sach
 Select *From Sach
@@ -101,20 +110,20 @@ Insert Into DichVu(MaDV, TenDV, MaSach, GiaTien) Values
 Delete From KhachHang
 Select *From KhachHang
 Insert Into KhachHang(MaKH, TenKH, NgSinh, Phai, DiaChi, Email, SDT) Values
-('KH.001', N'Anh Kiệt', '2005-10-09', N'Nam', N'TP HCM', N'anhkiet@gmail.com', '0912311313'),
+('KH.001', N'Nguyễn Văn A', '2005-05-19', N'Nam', N'TP HCM', N'vana@gmail.com', '0999888777'),
 ('KH.002', N'Thanh Tiền', '2005-04-15', N'Nam', N'TP HCM', N'thanhtien@gmail.com', '0921231453'),
 ('KH.003', N'Thanh Phú', '2005-08-12', N'Nam', N'TP HCM', N'thanhphu@gmail.com', '023451456')
 
 Delete From GioHang
 Select *From GioHang
-INSERT INTO GioHang (MaKH, MaSach, SoLuong, MaDV) VALUES
+Insert Into GioHang (MaKH, MaSach, SoLuong, MaDV) Values
 ('KH.001', 'S.001', 2, 'DV.001'),
 ('KH.001', 'S.001', 3, 'DV.002')
 
 
 Delete From HoaDon
 Select *From HoaDon
-INSERT INTO HoaDon (MaKH, MaSach, MaDV, SoLuong, ThanhTien, MaNV)
+Insert Into HoaDon (MaKH, MaSach, MaDV, SoLuong, ThanhTien, MaNV)
 SELECT 
     GioHang.MaKH, 
     GioHang.MaSach, 

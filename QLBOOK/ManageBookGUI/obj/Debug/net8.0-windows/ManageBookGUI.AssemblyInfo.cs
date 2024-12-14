@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ManageBookGUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+768e60ffd26fcfc99797e3f4975abd056f2057c7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef6301aa54234309a87fa51cf03f303a6f9eda4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ManageBookGUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ManageBookGUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
