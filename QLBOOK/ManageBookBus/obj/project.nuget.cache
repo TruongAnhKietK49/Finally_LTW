@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O3WpnZqSG+0=",
+  "dgSpecHash": "O3exgU7V8UE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ngoyn\\source\\repos\\Finally_LTW\\QLBOOK\\ManageBookBus\\ManageBookBus.csproj",
+  "projectFilePath": "C:\\Users\\ngoyn\\Source\\Repos\\Finally_LTW\\QLBOOK\\ManageBookBus\\ManageBookBus.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ngoyn\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\ngoyn\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
