@@ -11,3 +11,16 @@ D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDT
 D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDTO\obj\Debug\net8.0\ManageBookDTO.pdb
 D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDTO\obj\Debug\net8.0\ref\ManageBookDTO.dll
 D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDTO\obj\Debug\net8.0\ManageBookDTO.sourcelink.json
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookDTO\bin\Debug\net8.0\ManageBookDTO.deps.json
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookDTO\bin\Debug\net8.0\ManageBookDTO.dll
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookDTO\bin\Debug\net8.0\ManageBookDTO.pdb
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookDTO\obj\Debug\net8.0\ManageBookDTO.csproj.AssemblyReference.cache
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookDTO\obj\Debug\net8.0\ManageBookDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookDTO\obj\Debug\net8.0\ManageBookDTO.AssemblyInfoInputs.cache
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookDTO\obj\Debug\net8.0\ManageBookDTO.AssemblyInfo.cs
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookDTO\obj\Debug\net8.0\ManageBookDTO.csproj.CoreCompileInputs.cache
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookDTO\obj\Debug\net8.0\ManageBookDTO.sourcelink.json
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookDTO\obj\Debug\net8.0\ManageBookDTO.dll
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookDTO\obj\Debug\net8.0\refint\ManageBookDTO.dll
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookDTO\obj\Debug\net8.0\ManageBookDTO.pdb
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookDTO\obj\Debug\net8.0\ref\ManageBookDTO.dll

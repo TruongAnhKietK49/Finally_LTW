@@ -232,23 +232,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\truon\\.nuget\\packages\\": {},
+    "C:\\Users\\ngoyn\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Document\\HCMUE\\Năm II\\Lập trình windows\\Finally_LTWin\\QLBOOK\\ManageBookGUI\\ManageBookGUI.csproj",
+      "projectUniqueName": "C:\\Users\\ngoyn\\Source\\Repos\\Finally_LTW\\QLBOOK\\ManageBookGUI\\ManageBookGUI.csproj",
       "projectName": "ManageBookGUI",
-      "projectPath": "D:\\Document\\HCMUE\\Năm II\\Lập trình windows\\Finally_LTWin\\QLBOOK\\ManageBookGUI\\ManageBookGUI.csproj",
-      "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
-      "outputPath": "D:\\Document\\HCMUE\\Năm II\\Lập trình windows\\Finally_LTWin\\QLBOOK\\ManageBookGUI\\obj\\",
+      "projectPath": "C:\\Users\\ngoyn\\Source\\Repos\\Finally_LTW\\QLBOOK\\ManageBookGUI\\ManageBookGUI.csproj",
+      "packagesPath": "C:\\Users\\ngoyn\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ngoyn\\source\\repos\\Finally_LTW\\QLBOOK\\ManageBookGUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\truon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ngoyn\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -263,14 +263,14 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "D:\\Document\\HCMUE\\Năm II\\Lập trình windows\\Finally_LTWin\\QLBOOK\\ManageBookBus\\ManageBookBus.csproj": {
-              "projectPath": "D:\\Document\\HCMUE\\Năm II\\Lập trình windows\\Finally_LTWin\\QLBOOK\\ManageBookBus\\ManageBookBus.csproj"
+            "C:\\Users\\ngoyn\\Source\\Repos\\Finally_LTW\\QLBOOK\\ManageBookBus\\ManageBookBus.csproj": {
+              "projectPath": "C:\\Users\\ngoyn\\Source\\Repos\\Finally_LTW\\QLBOOK\\ManageBookBus\\ManageBookBus.csproj"
             },
-            "D:\\Document\\HCMUE\\Năm II\\Lập trình windows\\Finally_LTWin\\QLBOOK\\ManageBookDAO\\MangeBookDAO.csproj": {
-              "projectPath": "D:\\Document\\HCMUE\\Năm II\\Lập trình windows\\Finally_LTWin\\QLBOOK\\ManageBookDAO\\MangeBookDAO.csproj"
+            "C:\\Users\\ngoyn\\Source\\Repos\\Finally_LTW\\QLBOOK\\ManageBookDAO\\MangeBookDAO.csproj": {
+              "projectPath": "C:\\Users\\ngoyn\\Source\\Repos\\Finally_LTW\\QLBOOK\\ManageBookDAO\\MangeBookDAO.csproj"
             },
-            "D:\\Document\\HCMUE\\Năm II\\Lập trình windows\\Finally_LTWin\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj": {
-              "projectPath": "D:\\Document\\HCMUE\\Năm II\\Lập trình windows\\Finally_LTWin\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj"
+            "C:\\Users\\ngoyn\\Source\\Repos\\Finally_LTW\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj": {
+              "projectPath": "C:\\Users\\ngoyn\\Source\\Repos\\Finally_LTW\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj"
             }
           }
         }
@@ -314,7 +314,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -79,7 +79,10 @@
           "System.Data.SqlClient": "4.9.0"
         },
         "runtime": {
-          "ManageBookDTO.dll": {}
+          "ManageBookDTO.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

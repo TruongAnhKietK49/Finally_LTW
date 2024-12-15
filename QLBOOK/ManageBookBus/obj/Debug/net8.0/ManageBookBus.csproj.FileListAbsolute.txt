@@ -16,3 +16,21 @@ D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookBu
 D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookBus\bin\Debug\net8.0\ManageBookDTO.pdb
 D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookBus\obj\Debug\net8.0\ManageBookBus.sourcelink.json
 D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookBus\obj\Debug\net8.0\ManageBo.98C5E0E5.Up2Date
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookBus\bin\Debug\net8.0\ManageBookBus.deps.json
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookBus\bin\Debug\net8.0\ManageBookBus.dll
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookBus\bin\Debug\net8.0\ManageBookBus.pdb
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookBus\bin\Debug\net8.0\ManageBookDTO.dll
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookBus\bin\Debug\net8.0\MangeBookDAO.dll
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookBus\bin\Debug\net8.0\MangeBookDAO.pdb
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookBus\bin\Debug\net8.0\ManageBookDTO.pdb
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookBus\obj\Debug\net8.0\ManageBookBus.csproj.AssemblyReference.cache
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookBus\obj\Debug\net8.0\ManageBookBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookBus\obj\Debug\net8.0\ManageBookBus.AssemblyInfoInputs.cache
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookBus\obj\Debug\net8.0\ManageBookBus.AssemblyInfo.cs
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookBus\obj\Debug\net8.0\ManageBookBus.csproj.CoreCompileInputs.cache
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookBus\obj\Debug\net8.0\ManageBookBus.sourcelink.json
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookBus\obj\Debug\net8.0\ManageBo.98C5E0E5.Up2Date
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookBus\obj\Debug\net8.0\ManageBookBus.dll
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookBus\obj\Debug\net8.0\refint\ManageBookBus.dll
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookBus\obj\Debug\net8.0\ManageBookBus.pdb
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookBus\obj\Debug\net8.0\ref\ManageBookBus.dll

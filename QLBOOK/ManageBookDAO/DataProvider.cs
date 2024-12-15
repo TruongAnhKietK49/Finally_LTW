@@ -14,7 +14,7 @@ namespace ManageStuDAO
         {
             get
             {
-                return "Data Source=Henry\\SQLEXPRESS; Initial Catalog=BookStore_Management; Integrated Security=True; TrustServerCertificate = True;";
+                return "Data Source=YNHI\\YNHI; Initial Catalog=BookStore_Management; Integrated Security=True; TrustServerCertificate = True;";
             }
         }
 

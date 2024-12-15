@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Document\\HCMUE\\Năm II\\Lập trình windows\\Finally_LTWin\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj": {}
+    "C:\\Users\\ngoyn\\Source\\Repos\\Finally_LTW\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj": {}
   },
   "projects": {
-    "D:\\Document\\HCMUE\\Năm II\\Lập trình windows\\Finally_LTWin\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj": {
+    "C:\\Users\\ngoyn\\Source\\Repos\\Finally_LTW\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Document\\HCMUE\\Năm II\\Lập trình windows\\Finally_LTWin\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj",
+        "projectUniqueName": "C:\\Users\\ngoyn\\Source\\Repos\\Finally_LTW\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj",
         "projectName": "ManageBookDTO",
-        "projectPath": "D:\\Document\\HCMUE\\Năm II\\Lập trình windows\\Finally_LTWin\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj",
-        "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
-        "outputPath": "D:\\Document\\HCMUE\\Năm II\\Lập trình windows\\Finally_LTWin\\QLBOOK\\ManageBookDTO\\obj\\",
+        "projectPath": "C:\\Users\\ngoyn\\Source\\Repos\\Finally_LTW\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj",
+        "packagesPath": "C:\\Users\\ngoyn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ngoyn\\source\\repos\\Finally_LTW\\QLBOOK\\ManageBookDTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\truon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ngoyn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -70,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
