@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ManageBookGUI
-build_property.ProjectDir = C:\Users\ngoyn\Source\Repos\Finally_LTW\QLBOOK\ManageBookGUI\
+build_property.ProjectDir = C:\Users\ngoyn\source\repos\Finally_LTW\QLBOOK\ManageBookGUI\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

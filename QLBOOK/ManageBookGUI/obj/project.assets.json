@@ -238,9 +238,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ngoyn\\Source\\Repos\\Finally_LTW\\QLBOOK\\ManageBookGUI\\ManageBookGUI.csproj",
+      "projectUniqueName": "C:\\Users\\ngoyn\\source\\repos\\Finally_LTW\\QLBOOK\\ManageBookGUI\\ManageBookGUI.csproj",
       "projectName": "ManageBookGUI",
-      "projectPath": "C:\\Users\\ngoyn\\Source\\Repos\\Finally_LTW\\QLBOOK\\ManageBookGUI\\ManageBookGUI.csproj",
+      "projectPath": "C:\\Users\\ngoyn\\source\\repos\\Finally_LTW\\QLBOOK\\ManageBookGUI\\ManageBookGUI.csproj",
       "packagesPath": "C:\\Users\\ngoyn\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ngoyn\\source\\repos\\Finally_LTW\\QLBOOK\\ManageBookGUI\\obj\\",
       "projectStyle": "PackageReference",
@@ -263,14 +263,14 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\ngoyn\\Source\\Repos\\Finally_LTW\\QLBOOK\\ManageBookBus\\ManageBookBus.csproj": {
-              "projectPath": "C:\\Users\\ngoyn\\Source\\Repos\\Finally_LTW\\QLBOOK\\ManageBookBus\\ManageBookBus.csproj"
+            "C:\\Users\\ngoyn\\source\\repos\\Finally_LTW\\QLBOOK\\ManageBookBus\\ManageBookBus.csproj": {
+              "projectPath": "C:\\Users\\ngoyn\\source\\repos\\Finally_LTW\\QLBOOK\\ManageBookBus\\ManageBookBus.csproj"
             },
-            "C:\\Users\\ngoyn\\Source\\Repos\\Finally_LTW\\QLBOOK\\ManageBookDAO\\MangeBookDAO.csproj": {
-              "projectPath": "C:\\Users\\ngoyn\\Source\\Repos\\Finally_LTW\\QLBOOK\\ManageBookDAO\\MangeBookDAO.csproj"
+            "C:\\Users\\ngoyn\\source\\repos\\Finally_LTW\\QLBOOK\\ManageBookDAO\\MangeBookDAO.csproj": {
+              "projectPath": "C:\\Users\\ngoyn\\source\\repos\\Finally_LTW\\QLBOOK\\ManageBookDAO\\MangeBookDAO.csproj"
             },
-            "C:\\Users\\ngoyn\\Source\\Repos\\Finally_LTW\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj": {
-              "projectPath": "C:\\Users\\ngoyn\\Source\\Repos\\Finally_LTW\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj"
+            "C:\\Users\\ngoyn\\source\\repos\\Finally_LTW\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj": {
+              "projectPath": "C:\\Users\\ngoyn\\source\\repos\\Finally_LTW\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj"
             }
           }
         }

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ngoyn\\Source\\Repos\\Finally_LTW\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj": {}
+    "C:\\Users\\ngoyn\\source\\repos\\Finally_LTW\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ngoyn\\Source\\Repos\\Finally_LTW\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj": {
+    "C:\\Users\\ngoyn\\source\\repos\\Finally_LTW\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ngoyn\\Source\\Repos\\Finally_LTW\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj",
+        "projectUniqueName": "C:\\Users\\ngoyn\\source\\repos\\Finally_LTW\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj",
         "projectName": "ManageBookDTO",
-        "projectPath": "C:\\Users\\ngoyn\\Source\\Repos\\Finally_LTW\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj",
+        "projectPath": "C:\\Users\\ngoyn\\source\\repos\\Finally_LTW\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj",
         "packagesPath": "C:\\Users\\ngoyn\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ngoyn\\source\\repos\\Finally_LTW\\QLBOOK\\ManageBookDTO\\obj\\",
         "projectStyle": "PackageReference",
