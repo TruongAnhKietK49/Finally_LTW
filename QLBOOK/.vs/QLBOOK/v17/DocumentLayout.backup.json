@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E71D0E-38F6-40A6-9353-A744044CC21D}|ManageBookGUI\\ManageBookGUI.csproj|d:\\college\\it source\\c#\\l\u1EADp tr\u00ECnh windows\\\u0111\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\finally_ltw-main\\finally_ltw-main\\qlbook\\managebookgui\\formkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E71D0E-38F6-40A6-9353-A744044CC21D}|ManageBookGUI\\ManageBookGUI.csproj|solutionrelative:managebookgui\\formkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E71D0E-38F6-40A6-9353-A744044CC21D}|ManageBookGUI\\ManageBookGUI.csproj|d:\\college\\it source\\c#\\l\u1EADp tr\u00ECnh windows\\\u0111\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\finally_ltw-main\\finally_ltw-main\\qlbook\\managebookgui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E71D0E-38F6-40A6-9353-A744044CC21D}|ManageBookGUI\\ManageBookGUI.csproj|solutionrelative:managebookgui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768A56DF-D25F-4D95-8B09-E8687928E47B}|ManageBookBus\\ManageBookBus.csproj|d:\\college\\it source\\c#\\l\u1EADp tr\u00ECnh windows\\\u0111\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\finally_ltw-main\\finally_ltw-main\\qlbook\\managebookbus\\giohangbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768A56DF-D25F-4D95-8B09-E8687928E47B}|ManageBookBus\\ManageBookBus.csproj|solutionrelative:managebookbus\\giohangbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768A56DF-D25F-4D95-8B09-E8687928E47B}|ManageBookBus\\ManageBookBus.csproj|d:\\college\\it source\\c#\\l\u1EADp tr\u00ECnh windows\\\u0111\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\finally_ltw-main\\finally_ltw-main\\qlbook\\managebookbus\\dichvubus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768A56DF-D25F-4D95-8B09-E8687928E47B}|ManageBookBus\\ManageBookBus.csproj|solutionrelative:managebookbus\\dichvubus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB10B9FE-14E9-4CE7-9DBD-358812399003}|ManageBookDAO\\MangeBookDAO.csproj|d:\\college\\it source\\c#\\l\u1EADp tr\u00ECnh windows\\\u0111\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\finally_ltw-main\\finally_ltw-main\\qlbook\\managebookdao\\giohangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB10B9FE-14E9-4CE7-9DBD-358812399003}|ManageBookDAO\\MangeBookDAO.csproj|solutionrelative:managebookdao\\giohangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E71D0E-38F6-40A6-9353-A744044CC21D}|ManageBookGUI\\ManageBookGUI.csproj|d:\\college\\it source\\c#\\l\u1EADp tr\u00ECnh windows\\\u0111\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\finally_ltw-main\\finally_ltw-main\\qlbook\\managebookgui\\formkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5E71D0E-38F6-40A6-9353-A744044CC21D}|ManageBookGUI\\ManageBookGUI.csproj|solutionrelative:managebookgui\\formkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB10B9FE-14E9-4CE7-9DBD-358812399003}|ManageBookDAO\\MangeBookDAO.csproj|d:\\college\\it source\\c#\\l\u1EADp tr\u00ECnh windows\\\u0111\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\finally_ltw-main\\finally_ltw-main\\qlbook\\managebookdao\\sachdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB10B9FE-14E9-4CE7-9DBD-358812399003}|ManageBookDAO\\MangeBookDAO.csproj|solutionrelative:managebookdao\\sachdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB10B9FE-14E9-4CE7-9DBD-358812399003}|ManageBookDAO\\MangeBookDAO.csproj|d:\\college\\it source\\c#\\l\u1EADp tr\u00ECnh windows\\\u0111\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\finally_ltw-main\\finally_ltw-main\\qlbook\\managebookdao\\dichvudao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB10B9FE-14E9-4CE7-9DBD-358812399003}|ManageBookDAO\\MangeBookDAO.csproj|solutionrelative:managebookdao\\dichvudao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78535F89-09AF-4678-8DB4-CF9F4F39FD96}|ManageBookDTO\\ManageBookDTO.csproj|d:\\college\\it source\\c#\\l\u1EADp tr\u00ECnh windows\\\u0111\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\finally_ltw-main\\finally_ltw-main\\qlbook\\managebookdto\\sachdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78535F89-09AF-4678-8DB4-CF9F4F39FD96}|ManageBookDTO\\ManageBookDTO.csproj|solutionrelative:managebookdto\\sachdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768A56DF-D25F-4D95-8B09-E8687928E47B}|ManageBookBus\\ManageBookBus.csproj|d:\\college\\it source\\c#\\l\u1EADp tr\u00ECnh windows\\\u0111\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\finally_ltw-main\\finally_ltw-main\\qlbook\\managebookbus\\sachbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768A56DF-D25F-4D95-8B09-E8687928E47B}|ManageBookBus\\ManageBookBus.csproj|solutionrelative:managebookbus\\sachbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768A56DF-D25F-4D95-8B09-E8687928E47B}|ManageBookBus\\ManageBookBus.csproj|d:\\college\\it source\\c#\\l\u1EADp tr\u00ECnh windows\\\u0111\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\finally_ltw-main\\finally_ltw-main\\qlbook\\managebookbus\\hoadonbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768A56DF-D25F-4D95-8B09-E8687928E47B}|ManageBookBus\\ManageBookBus.csproj|solutionrelative:managebookbus\\hoadonbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768A56DF-D25F-4D95-8B09-E8687928E47B}|ManageBookBus\\ManageBookBus.csproj|d:\\college\\it source\\c#\\l\u1EADp tr\u00ECnh windows\\\u0111\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\finally_ltw-main\\finally_ltw-main\\qlbook\\managebookbus\\khachhangbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768A56DF-D25F-4D95-8B09-E8687928E47B}|ManageBookBus\\ManageBookBus.csproj|solutionrelative:managebookbus\\khachhangbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768A56DF-D25F-4D95-8B09-E8687928E47B}|ManageBookBus\\ManageBookBus.csproj|d:\\college\\it source\\c#\\l\u1EADp tr\u00ECnh windows\\\u0111\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\finally_ltw-main\\finally_ltw-main\\qlbook\\managebookbus\\nhanvienbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768A56DF-D25F-4D95-8B09-E8687928E47B}|ManageBookBus\\ManageBookBus.csproj|solutionrelative:managebookbus\\nhanvienbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E71D0E-38F6-40A6-9353-A744044CC21D}|ManageBookGUI\\ManageBookGUI.csproj|D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\managebookgui\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5E71D0E-38F6-40A6-9353-A744044CC21D}|ManageBookGUI\\ManageBookGUI.csproj|solutionrelative:managebookgui\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78535F89-09AF-4678-8DB4-CF9F4F39FD96}|ManageBookDTO\\ManageBookDTO.csproj|d:\\college\\it source\\c#\\l\u1EADp tr\u00ECnh windows\\\u0111\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\finally_ltw-main\\finally_ltw-main\\qlbook\\managebookdto\\dichvudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78535F89-09AF-4678-8DB4-CF9F4F39FD96}|ManageBookDTO\\ManageBookDTO.csproj|solutionrelative:managebookdto\\dichvudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78535F89-09AF-4678-8DB4-CF9F4F39FD96}|ManageBookDTO\\ManageBookDTO.csproj|d:\\college\\it source\\c#\\l\u1EADp tr\u00ECnh windows\\\u0111\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\finally_ltw-main\\finally_ltw-main\\qlbook\\managebookdto\\managebookdto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{78535F89-09AF-4678-8DB4-CF9F4F39FD96}|ManageBookDTO\\ManageBookDTO.csproj|solutionrelative:managebookdto\\managebookdto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78535F89-09AF-4678-8DB4-CF9F4F39FD96}|ManageBookDTO\\ManageBookDTO.csproj|d:\\college\\it source\\c#\\l\u1EADp tr\u00ECnh windows\\\u0111\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\finally_ltw-main\\finally_ltw-main\\qlbook\\managebookdto\\nhanviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78535F89-09AF-4678-8DB4-CF9F4F39FD96}|ManageBookDTO\\ManageBookDTO.csproj|solutionrelative:managebookdto\\nhanviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78535F89-09AF-4678-8DB4-CF9F4F39FD96}|ManageBookDTO\\ManageBookDTO.csproj|d:\\college\\it source\\c#\\l\u1EADp tr\u00ECnh windows\\\u0111\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\finally_ltw-main\\finally_ltw-main\\qlbook\\managebookdto\\khachhangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78535F89-09AF-4678-8DB4-CF9F4F39FD96}|ManageBookDTO\\ManageBookDTO.csproj|solutionrelative:managebookdto\\khachhangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768A56DF-D25F-4D95-8B09-E8687928E47B}|ManageBookBus\\ManageBookBus.csproj|d:\\college\\it source\\c#\\l\u1EADp tr\u00ECnh windows\\\u0111\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\finally_ltw-main\\finally_ltw-main\\qlbook\\managebookbus\\managebookbus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{768A56DF-D25F-4D95-8B09-E8687928E47B}|ManageBookBus\\ManageBookBus.csproj|solutionrelative:managebookbus\\managebookbus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78535F89-09AF-4678-8DB4-CF9F4F39FD96}|ManageBookDTO\\ManageBookDTO.csproj|d:\\college\\it source\\c#\\l\u1EADp tr\u00ECnh windows\\\u0111\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\finally_ltw-main\\finally_ltw-main\\qlbook\\managebookdto\\hoadondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78535F89-09AF-4678-8DB4-CF9F4F39FD96}|ManageBookDTO\\ManageBookDTO.csproj|solutionrelative:managebookdto\\hoadondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 518,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormKH.cs",
+              "DocumentMoniker": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookGUI\\FormKH.cs",
+              "RelativeDocumentMoniker": "ManageBookGUI\\FormKH.cs",
+              "ToolTip": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookGUI\\FormKH.cs",
+              "RelativeToolTip": "ManageBookGUI\\FormKH.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAkwK4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:52:46.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormKH.cs [Design]",
+              "DocumentMoniker": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookGUI\\FormKH.cs",
+              "RelativeDocumentMoniker": "ManageBookGUI\\FormKH.cs",
+              "ToolTip": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookGUI\\FormKH.cs [Design]",
+              "RelativeToolTip": "ManageBookGUI\\FormKH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:05:45.065Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GioHangDAO.cs",
+              "DocumentMoniker": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookDAO\\GioHangDAO.cs",
+              "RelativeDocumentMoniker": "ManageBookDAO\\GioHangDAO.cs",
+              "ToolTip": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookDAO\\GioHangDAO.cs",
+              "RelativeToolTip": "ManageBookDAO\\GioHangDAO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:26:12.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DichVuBus.cs",
+              "DocumentMoniker": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookBus\\DichVuBus.cs",
+              "RelativeDocumentMoniker": "ManageBookBus\\DichVuBus.cs",
+              "ToolTip": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookBus\\DichVuBus.cs",
+              "RelativeToolTip": "ManageBookBus\\DichVuBus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:03:27.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GioHangBus.cs",
+              "DocumentMoniker": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookBus\\GioHangBus.cs",
+              "RelativeDocumentMoniker": "ManageBookBus\\GioHangBus.cs",
+              "ToolTip": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookBus\\GioHangBus.cs",
+              "RelativeToolTip": "ManageBookBus\\GioHangBus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:25:36.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAALwUAAAAAAAAAAAtwMwUAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-12-13T12:37:27.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SachDTO.cs",
+              "DocumentMoniker": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookDTO\\SachDTO.cs",
+              "RelativeDocumentMoniker": "ManageBookDTO\\SachDTO.cs",
+              "ToolTip": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookDTO\\SachDTO.cs",
+              "RelativeToolTip": "ManageBookDTO\\SachDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:26:05.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookGUI\\Program.cs",
+              "RelativeDocumentMoniker": "ManageBookGUI\\Program.cs",
+              "ToolTip": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookGUI\\Program.cs",
+              "RelativeToolTip": "ManageBookGUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:48:32.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SachBus.cs",
+              "DocumentMoniker": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookBus\\SachBus.cs",
+              "RelativeDocumentMoniker": "ManageBookBus\\SachBus.cs",
+              "ToolTip": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookBus\\SachBus.cs",
+              "RelativeToolTip": "ManageBookBus\\SachBus.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAD4vw0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:03:31.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SachDAO.cs",
+              "DocumentMoniker": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookDAO\\SachDAO.cs",
+              "RelativeDocumentMoniker": "ManageBookDAO\\SachDAO.cs",
+              "ToolTip": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookDAO\\SachDAO.cs",
+              "RelativeToolTip": "ManageBookDAO\\SachDAO.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAkwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:15:06.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DichVuDAO.cs",
+              "DocumentMoniker": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookDAO\\DichVuDAO.cs",
+              "RelativeDocumentMoniker": "ManageBookDAO\\DichVuDAO.cs",
+              "ToolTip": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookDAO\\DichVuDAO.cs",
+              "RelativeToolTip": "ManageBookDAO\\DichVuDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:26:10.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HoaDonBus.cs",
+              "DocumentMoniker": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookBus\\HoaDonBus.cs",
+              "RelativeDocumentMoniker": "ManageBookBus\\HoaDonBus.cs",
+              "ToolTip": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookBus\\HoaDonBus.cs",
+              "RelativeToolTip": "ManageBookBus\\HoaDonBus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:03:29.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KhachHangBus.cs",
+              "DocumentMoniker": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookBus\\KhachHangBus.cs",
+              "RelativeDocumentMoniker": "ManageBookBus\\KhachHangBus.cs",
+              "ToolTip": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookBus\\KhachHangBus.cs",
+              "RelativeToolTip": "ManageBookBus\\KhachHangBus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:03:30.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NhanVienBus.cs",
+              "DocumentMoniker": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookBus\\NhanVienBus.cs",
+              "RelativeDocumentMoniker": "ManageBookBus\\NhanVienBus.cs",
+              "ToolTip": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookBus\\NhanVienBus.cs",
+              "RelativeToolTip": "ManageBookBus\\NhanVienBus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:03:30.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookGUI\\FormMain.cs",
+              "RelativeDocumentMoniker": "ManageBookGUI\\FormMain.cs",
+              "ToolTip": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookGUI\\FormMain.cs [Design]",
+              "RelativeToolTip": "ManageBookGUI\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T17:29:35.182Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DichVuDTO.cs",
+              "DocumentMoniker": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookDTO\\DichVuDTO.cs",
+              "RelativeDocumentMoniker": "ManageBookDTO\\DichVuDTO.cs",
+              "ToolTip": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookDTO\\DichVuDTO.cs",
+              "RelativeToolTip": "ManageBookDTO\\DichVuDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:25:50.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ManageBookDTO.csproj",
+              "DocumentMoniker": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj",
+              "RelativeDocumentMoniker": "ManageBookDTO\\ManageBookDTO.csproj",
+              "ToolTip": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj",
+              "RelativeToolTip": "ManageBookDTO\\ManageBookDTO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-13T08:05:31.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "KhachHangDTO.cs",
+              "DocumentMoniker": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookDTO\\KhachHangDTO.cs",
+              "RelativeDocumentMoniker": "ManageBookDTO\\KhachHangDTO.cs",
+              "ToolTip": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookDTO\\KhachHangDTO.cs",
+              "RelativeToolTip": "ManageBookDTO\\KhachHangDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:26:00.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NhanVienDTO.cs",
+              "DocumentMoniker": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookDTO\\NhanVienDTO.cs",
+              "RelativeDocumentMoniker": "ManageBookDTO\\NhanVienDTO.cs",
+              "ToolTip": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookDTO\\NhanVienDTO.cs",
+              "RelativeToolTip": "ManageBookDTO\\NhanVienDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:26:02.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ManageBookBus.csproj",
+              "DocumentMoniker": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookBus\\ManageBookBus.csproj",
+              "RelativeDocumentMoniker": "ManageBookBus\\ManageBookBus.csproj",
+              "ToolTip": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookBus\\ManageBookBus.csproj",
+              "RelativeToolTip": "ManageBookBus\\ManageBookBus.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-13T08:05:32.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HoaDonDTO.cs",
+              "DocumentMoniker": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookDTO\\HoaDonDTO.cs",
+              "RelativeDocumentMoniker": "ManageBookDTO\\HoaDonDTO.cs",
+              "ToolTip": "D:\\College\\IT source\\C#\\L\u1EADp tr\u00ECnh windows\\\u0110\u1EC1 t\u00E0i cu\u1ED1i k\u00EC\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookDTO\\HoaDonDTO.cs",
+              "RelativeToolTip": "ManageBookDTO\\HoaDonDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:25:57.86Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

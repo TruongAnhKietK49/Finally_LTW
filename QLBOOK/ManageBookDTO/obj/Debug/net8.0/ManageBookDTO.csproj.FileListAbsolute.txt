@@ -1,0 +1,24 @@
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDTO\bin\Debug\net8.0\ManageBookDTO.deps.json
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDTO\bin\Debug\net8.0\ManageBookDTO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDTO\bin\Debug\net8.0\ManageBookDTO.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDTO\obj\Debug\net8.0\ManageBookDTO.csproj.AssemblyReference.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDTO\obj\Debug\net8.0\ManageBookDTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDTO\obj\Debug\net8.0\ManageBookDTO.AssemblyInfoInputs.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDTO\obj\Debug\net8.0\ManageBookDTO.AssemblyInfo.cs
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDTO\obj\Debug\net8.0\ManageBookDTO.csproj.CoreCompileInputs.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDTO\obj\Debug\net8.0\ManageBookDTO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDTO\obj\Debug\net8.0\refint\ManageBookDTO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDTO\obj\Debug\net8.0\ManageBookDTO.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDTO\obj\Debug\net8.0\ref\ManageBookDTO.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookDTO\bin\Debug\net8.0\ManageBookDTO.deps.json
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookDTO\bin\Debug\net8.0\ManageBookDTO.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookDTO\bin\Debug\net8.0\ManageBookDTO.pdb
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookDTO\obj\Debug\net8.0\ManageBookDTO.csproj.AssemblyReference.cache
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookDTO\obj\Debug\net8.0\ManageBookDTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookDTO\obj\Debug\net8.0\ManageBookDTO.AssemblyInfoInputs.cache
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookDTO\obj\Debug\net8.0\ManageBookDTO.AssemblyInfo.cs
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookDTO\obj\Debug\net8.0\ManageBookDTO.csproj.CoreCompileInputs.cache
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookDTO\obj\Debug\net8.0\ManageBookDTO.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookDTO\obj\Debug\net8.0\refint\ManageBookDTO.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookDTO\obj\Debug\net8.0\ManageBookDTO.pdb
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookDTO\obj\Debug\net8.0\ref\ManageBookDTO.dll

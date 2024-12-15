@@ -1,0 +1,232 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\College\\IT source\\C#\\Lập trình windows\\Đề tài cuối kì\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookBus\\ManageBookBus.csproj": {}
+  },
+  "projects": {
+    "D:\\College\\IT source\\C#\\Lập trình windows\\Đề tài cuối kì\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookBus\\ManageBookBus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\College\\IT source\\C#\\Lập trình windows\\Đề tài cuối kì\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookBus\\ManageBookBus.csproj",
+        "projectName": "ManageBookBus",
+        "projectPath": "D:\\College\\IT source\\C#\\Lập trình windows\\Đề tài cuối kì\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookBus\\ManageBookBus.csproj",
+        "packagesPath": "C:\\Users\\phuga\\.nuget\\packages\\",
+        "outputPath": "D:\\College\\IT source\\C#\\Lập trình windows\\Đề tài cuối kì\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookBus\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\phuga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\College\\IT source\\C#\\Lập trình windows\\Đề tài cuối kì\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookDAO\\MangeBookDAO.csproj": {
+                "projectPath": "D:\\College\\IT source\\C#\\Lập trình windows\\Đề tài cuối kì\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookDAO\\MangeBookDAO.csproj"
+              },
+              "D:\\College\\IT source\\C#\\Lập trình windows\\Đề tài cuối kì\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj": {
+                "projectPath": "D:\\College\\IT source\\C#\\Lập trình windows\\Đề tài cuối kì\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\College\\IT source\\C#\\Lập trình windows\\Đề tài cuối kì\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookDAO\\MangeBookDAO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\College\\IT source\\C#\\Lập trình windows\\Đề tài cuối kì\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookDAO\\MangeBookDAO.csproj",
+        "projectName": "MangeBookDAO",
+        "projectPath": "D:\\College\\IT source\\C#\\Lập trình windows\\Đề tài cuối kì\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookDAO\\MangeBookDAO.csproj",
+        "packagesPath": "C:\\Users\\phuga\\.nuget\\packages\\",
+        "outputPath": "D:\\College\\IT source\\C#\\Lập trình windows\\Đề tài cuối kì\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookDAO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\phuga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\College\\IT source\\C#\\Lập trình windows\\Đề tài cuối kì\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj": {
+                "projectPath": "D:\\College\\IT source\\C#\\Lập trình windows\\Đề tài cuối kì\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\College\\IT source\\C#\\Lập trình windows\\Đề tài cuối kì\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\College\\IT source\\C#\\Lập trình windows\\Đề tài cuối kì\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj",
+        "projectName": "ManageBookDTO",
+        "projectPath": "D:\\College\\IT source\\C#\\Lập trình windows\\Đề tài cuối kì\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj",
+        "packagesPath": "C:\\Users\\phuga\\.nuget\\packages\\",
+        "outputPath": "D:\\College\\IT source\\C#\\Lập trình windows\\Đề tài cuối kì\\Finally_LTW-main\\Finally_LTW-main\\QLBOOK\\ManageBookDTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\phuga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookBus\bin\Debug\net8.0\ManageBookBus.deps.json
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookBus\bin\Debug\net8.0\ManageBookBus.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookBus\bin\Debug\net8.0\ManageBookBus.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookBus\obj\Debug\net8.0\ManageBookBus.csproj.AssemblyReference.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookBus\obj\Debug\net8.0\ManageBookBus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookBus\obj\Debug\net8.0\ManageBookBus.AssemblyInfoInputs.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookBus\obj\Debug\net8.0\ManageBookBus.AssemblyInfo.cs
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookBus\obj\Debug\net8.0\ManageBookBus.csproj.CoreCompileInputs.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookBus\obj\Debug\net8.0\ManageBookBus.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookBus\obj\Debug\net8.0\refint\ManageBookBus.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookBus\obj\Debug\net8.0\ManageBookBus.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookBus\obj\Debug\net8.0\ref\ManageBookBus.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookBus\bin\Debug\net8.0\ManageBookBus.deps.json
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookBus\bin\Debug\net8.0\ManageBookBus.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookBus\bin\Debug\net8.0\ManageBookBus.pdb
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookBus\bin\Debug\net8.0\ManageBookDTO.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookBus\bin\Debug\net8.0\MangeBookDAO.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookBus\bin\Debug\net8.0\MangeBookDAO.pdb
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookBus\bin\Debug\net8.0\ManageBookDTO.pdb
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookBus\obj\Debug\net8.0\ManageBookBus.csproj.AssemblyReference.cache
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookBus\obj\Debug\net8.0\ManageBookBus.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookBus\obj\Debug\net8.0\ManageBookBus.AssemblyInfoInputs.cache
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookBus\obj\Debug\net8.0\ManageBookBus.AssemblyInfo.cs
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookBus\obj\Debug\net8.0\ManageBookBus.csproj.CoreCompileInputs.cache
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookBus\obj\Debug\net8.0\ManageBo.98C5E0E5.Up2Date
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookBus\obj\Debug\net8.0\ManageBookBus.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookBus\obj\Debug\net8.0\refint\ManageBookBus.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookBus\obj\Debug\net8.0\ManageBookBus.pdb
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookBus\obj\Debug\net8.0\ref\ManageBookBus.dll

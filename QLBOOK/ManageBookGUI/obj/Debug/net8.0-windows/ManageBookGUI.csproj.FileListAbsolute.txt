@@ -1,0 +1,99 @@
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\ManageBookGUI.exe
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\ManageBookGUI.deps.json
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\ManageBookGUI.runtimeconfig.json
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\ManageBookGUI.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\ManageBookGUI.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.csproj.AssemblyReference.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.FormHoaDon.resources
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.FormKH.resources
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.FormMain.resources
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.FormNV.resources
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.FormSignUp.resources
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.FromSignIn.resources
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.csproj.GenerateResource.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.AssemblyInfoInputs.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.AssemblyInfo.cs
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.csproj.CoreCompileInputs.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBo.D32059B1.Up2Date
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\refint\ManageBookGUI.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.genruntimeconfig.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ref\ManageBookGUI.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\ManageBookGUI.exe
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\ManageBookGUI.deps.json
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\ManageBookGUI.runtimeconfig.json
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\ManageBookGUI.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\ManageBookGUI.pdb
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\ManageBookBus.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\ManageBookDTO.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\MangeBookDAO.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\ManageBookBus.pdb
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\MangeBookDAO.pdb
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\ManageBookDTO.pdb
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.csproj.AssemblyReference.cache
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.FormHoaDon.resources
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.FormKH.resources
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.FormMain.resources
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.FormNV.resources
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.FormSignUp.resources
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.FromSignIn.resources
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.csproj.GenerateResource.cache
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.AssemblyInfoInputs.cache
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.AssemblyInfo.cs
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.csproj.CoreCompileInputs.cache
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBo.D32059B1.Up2Date
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\refint\ManageBookGUI.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.pdb
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.genruntimeconfig.cache
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ref\ManageBookGUI.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\obj\Debug\net8.0-windows\ManageBookGUI.Properties.Resources.resources
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Finally_LTW-main\Finally_LTW-main\QLBOOK\ManageBookGUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
