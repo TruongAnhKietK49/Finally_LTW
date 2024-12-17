@@ -6,6 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace ManageStuDAO
 {
     public class DataProvider
@@ -14,7 +15,7 @@ namespace ManageStuDAO
         {
             get
             {
-                return "Data Source=Henry\\SQLEXPRESS; Initial Catalog=BookStore_Management; Integrated Security=True; TrustServerCertificate = True;";
+                return "Data Source=DESKTOP-AT07G57\\SQLEXPRESS; Initial Catalog=BookStore_Management; Integrated Security=True; TrustServerCertificate = True;";
             }
         }
 

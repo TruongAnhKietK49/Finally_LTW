@@ -3,36 +3,32 @@
   "WorkspaceRootPath": "D:\\QLBOOK\\Finally_LTW\\QLBOOK\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5E71D0E-38F6-40A6-9353-A744044CC21D}|ManageBookGUI\\ManageBookGUI.csproj|D:\\QLBOOK\\Finally_LTW\\QLBOOK\\managebookgui\\formhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D5E71D0E-38F6-40A6-9353-A744044CC21D}|ManageBookGUI\\ManageBookGUI.csproj|solutionrelative:managebookgui\\formhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5E71D0E-38F6-40A6-9353-A744044CC21D}|ManageBookGUI\\ManageBookGUI.csproj|d:\\qlbook\\finally_ltw\\qlbook\\managebookgui\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D5E71D0E-38F6-40A6-9353-A744044CC21D}|ManageBookGUI\\ManageBookGUI.csproj|solutionrelative:managebookgui\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5E71D0E-38F6-40A6-9353-A744044CC21D}|ManageBookGUI\\ManageBookGUI.csproj|d:\\qlbook\\finally_ltw\\qlbook\\managebookgui\\formhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5E71D0E-38F6-40A6-9353-A744044CC21D}|ManageBookGUI\\ManageBookGUI.csproj|solutionrelative:managebookgui\\formhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78535F89-09AF-4678-8DB4-CF9F4F39FD96}|ManageBookDTO\\ManageBookDTO.csproj|d:\\qlbook\\finally_ltw\\qlbook\\managebookdto\\hoadondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78535F89-09AF-4678-8DB4-CF9F4F39FD96}|ManageBookDTO\\ManageBookDTO.csproj|solutionrelative:managebookdto\\hoadondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB10B9FE-14E9-4CE7-9DBD-358812399003}|ManageBookDAO\\MangeBookDAO.csproj|d:\\qlbook\\finally_ltw\\qlbook\\managebookdao\\hoadondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB10B9FE-14E9-4CE7-9DBD-358812399003}|ManageBookDAO\\MangeBookDAO.csproj|solutionrelative:managebookdao\\hoadondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB10B9FE-14E9-4CE7-9DBD-358812399003}|ManageBookDAO\\MangeBookDAO.csproj|d:\\qlbook\\finally_ltw\\qlbook\\managebookdao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB10B9FE-14E9-4CE7-9DBD-358812399003}|ManageBookDAO\\MangeBookDAO.csproj|solutionrelative:managebookdao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{768A56DF-D25F-4D95-8B09-E8687928E47B}|ManageBookBus\\ManageBookBus.csproj|d:\\qlbook\\finally_ltw\\qlbook\\managebookbus\\hoadonbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{768A56DF-D25F-4D95-8B09-E8687928E47B}|ManageBookBus\\ManageBookBus.csproj|solutionrelative:managebookbus\\hoadonbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{768A56DF-D25F-4D95-8B09-E8687928E47B}|ManageBookBus\\ManageBookBus.csproj|d:\\qlbook\\finally_ltw\\qlbook\\managebookbus\\khachhangbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{768A56DF-D25F-4D95-8B09-E8687928E47B}|ManageBookBus\\ManageBookBus.csproj|solutionrelative:managebookbus\\khachhangbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78535F89-09AF-4678-8DB4-CF9F4F39FD96}|ManageBookDTO\\ManageBookDTO.csproj|d:\\qlbook\\finally_ltw\\qlbook\\managebookdto\\hoadondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78535F89-09AF-4678-8DB4-CF9F4F39FD96}|ManageBookDTO\\ManageBookDTO.csproj|solutionrelative:managebookdto\\hoadondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB10B9FE-14E9-4CE7-9DBD-358812399003}|ManageBookDAO\\MangeBookDAO.csproj|d:\\qlbook\\finally_ltw\\qlbook\\managebookdao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB10B9FE-14E9-4CE7-9DBD-358812399003}|ManageBookDAO\\MangeBookDAO.csproj|solutionrelative:managebookdao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB10B9FE-14E9-4CE7-9DBD-358812399003}|ManageBookDAO\\MangeBookDAO.csproj|d:\\qlbook\\finally_ltw\\qlbook\\managebookdao\\hoadondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB10B9FE-14E9-4CE7-9DBD-358812399003}|ManageBookDAO\\MangeBookDAO.csproj|solutionrelative:managebookdao\\hoadondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E71D0E-38F6-40A6-9353-A744044CC21D}|ManageBookGUI\\ManageBookGUI.csproj|D:\\QLBOOK\\Finally_LTW\\QLBOOK\\managebookgui\\formhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5E71D0E-38F6-40A6-9353-A744044CC21D}|ManageBookGUI\\ManageBookGUI.csproj|solutionrelative:managebookgui\\formhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E71D0E-38F6-40A6-9353-A744044CC21D}|ManageBookGUI\\ManageBookGUI.csproj|d:\\qlbook\\finally_ltw\\qlbook\\managebookgui\\formhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E71D0E-38F6-40A6-9353-A744044CC21D}|ManageBookGUI\\ManageBookGUI.csproj|solutionrelative:managebookgui\\formhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,13 +42,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "FormHoaDon.cs",
               "DocumentMoniker": "D:\\QLBOOK\\Finally_LTW\\QLBOOK\\ManageBookGUI\\FormHoaDon.cs",
               "RelativeDocumentMoniker": "ManageBookGUI\\FormHoaDon.cs",
               "ToolTip": "D:\\QLBOOK\\Finally_LTW\\QLBOOK\\ManageBookGUI\\FormHoaDon.cs",
               "RelativeToolTip": "ManageBookGUI\\FormHoaDon.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwMYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T07:21:05.338Z",
               "IsPinned": true,
@@ -61,18 +57,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FormMain.cs [Design]",
-              "DocumentMoniker": "D:\\QLBOOK\\Finally_LTW\\QLBOOK\\ManageBookGUI\\FormMain.cs",
-              "RelativeDocumentMoniker": "ManageBookGUI\\FormMain.cs",
-              "ToolTip": "D:\\QLBOOK\\Finally_LTW\\QLBOOK\\ManageBookGUI\\FormMain.cs [Design]",
-              "RelativeToolTip": "ManageBookGUI\\FormMain.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T14:57:40.498Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "KhachHangBus.cs",
               "DocumentMoniker": "D:\\QLBOOK\\Finally_LTW\\QLBOOK\\ManageBookBus\\KhachHangBus.cs",
               "RelativeDocumentMoniker": "ManageBookBus\\KhachHangBus.cs",
@@ -80,16 +64,17 @@
               "RelativeToolTip": "ManageBookBus\\KhachHangBus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T14:02:20.616Z"
+              "WhenOpened": "2024-12-17T14:02:20.616Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "DataProvider.cs",
               "DocumentMoniker": "D:\\QLBOOK\\Finally_LTW\\QLBOOK\\ManageBookDAO\\DataProvider.cs",
               "RelativeDocumentMoniker": "ManageBookDAO\\DataProvider.cs",
-              "ToolTip": "D:\\QLBOOK\\Finally_LTW\\QLBOOK\\ManageBookDAO\\DataProvider.cs",
-              "RelativeToolTip": "ManageBookDAO\\DataProvider.cs",
+              "ToolTip": "D:\\QLBOOK\\Finally_LTW\\QLBOOK\\ManageBookDAO\\DataProvider.cs*",
+              "RelativeToolTip": "ManageBookDAO\\DataProvider.cs*",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T10:39:10.092Z",
@@ -103,14 +88,14 @@
               "RelativeDocumentMoniker": "ManageBookDAO\\HoaDonDAO.cs",
               "ToolTip": "D:\\QLBOOK\\Finally_LTW\\QLBOOK\\ManageBookDAO\\HoaDonDAO.cs",
               "RelativeToolTip": "ManageBookDAO\\HoaDonDAO.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAFsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T09:44:50.914Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "HoaDonDTO.cs",
               "DocumentMoniker": "D:\\QLBOOK\\Finally_LTW\\QLBOOK\\ManageBookDTO\\HoaDonDTO.cs",
               "RelativeDocumentMoniker": "ManageBookDTO\\HoaDonDTO.cs",
@@ -123,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "FormHoaDon.cs [Design]",
               "DocumentMoniker": "D:\\QLBOOK\\Finally_LTW\\QLBOOK\\ManageBookGUI\\FormHoaDon.cs",
               "RelativeDocumentMoniker": "ManageBookGUI\\FormHoaDon.cs",
@@ -135,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "HoaDonBus.cs",
               "DocumentMoniker": "D:\\QLBOOK\\Finally_LTW\\QLBOOK\\ManageBookBus\\HoaDonBus.cs",
               "RelativeDocumentMoniker": "ManageBookBus\\HoaDonBus.cs",

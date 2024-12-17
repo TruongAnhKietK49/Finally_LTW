@@ -146,4 +146,4 @@ JOIN Sach ON HoaDon.MaSach = Sach.MaSach
 JOIN DichVu ON HoaDon.MaDV = DichVu.MaDV
 JOIN NhanVien ON HoaDon.MaNV = NhanVien.MaNV
 WHERE HoaDon.MaNV = 'NV.002';
-
+select * from HoaDon

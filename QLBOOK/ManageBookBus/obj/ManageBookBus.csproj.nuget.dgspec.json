@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Document\\HCMUE\\Năm II\\Lập trình windows\\Finally_LTWin\\QLBOOK\\ManageBookBus\\ManageBookBus.csproj": {}
+    "D:\\QLBOOK\\Finally_LTW\\QLBOOK\\ManageBookBus\\ManageBookBus.csproj": {}
   },
   "projects": {
-    "D:\\Document\\HCMUE\\Năm II\\Lập trình windows\\Finally_LTWin\\QLBOOK\\ManageBookBus\\ManageBookBus.csproj": {
+    "D:\\QLBOOK\\Finally_LTW\\QLBOOK\\ManageBookBus\\ManageBookBus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Document\\HCMUE\\Năm II\\Lập trình windows\\Finally_LTWin\\QLBOOK\\ManageBookBus\\ManageBookBus.csproj",
+        "projectUniqueName": "D:\\QLBOOK\\Finally_LTW\\QLBOOK\\ManageBookBus\\ManageBookBus.csproj",
         "projectName": "ManageBookBus",
-        "projectPath": "D:\\Document\\HCMUE\\Năm II\\Lập trình windows\\Finally_LTWin\\QLBOOK\\ManageBookBus\\ManageBookBus.csproj",
-        "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
-        "outputPath": "D:\\Document\\HCMUE\\Năm II\\Lập trình windows\\Finally_LTWin\\QLBOOK\\ManageBookBus\\obj\\",
+        "projectPath": "D:\\QLBOOK\\Finally_LTW\\QLBOOK\\ManageBookBus\\ManageBookBus.csproj",
+        "packagesPath": "C:\\Users\\baou6\\.nuget\\packages\\",
+        "outputPath": "D:\\QLBOOK\\Finally_LTW\\QLBOOK\\ManageBookBus\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\truon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\baou6\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,17 +26,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Document\\HCMUE\\Năm II\\Lập trình windows\\Finally_LTWin\\QLBOOK\\ManageBookDAO\\MangeBookDAO.csproj": {
-                "projectPath": "D:\\Document\\HCMUE\\Năm II\\Lập trình windows\\Finally_LTWin\\QLBOOK\\ManageBookDAO\\MangeBookDAO.csproj"
+              "D:\\QLBOOK\\Finally_LTW\\QLBOOK\\ManageBookDAO\\MangeBookDAO.csproj": {
+                "projectPath": "D:\\QLBOOK\\Finally_LTW\\QLBOOK\\ManageBookDAO\\MangeBookDAO.csproj"
               },
-              "D:\\Document\\HCMUE\\Năm II\\Lập trình windows\\Finally_LTWin\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj": {
-                "projectPath": "D:\\Document\\HCMUE\\Năm II\\Lập trình windows\\Finally_LTWin\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj"
+              "D:\\QLBOOK\\Finally_LTW\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj": {
+                "projectPath": "D:\\QLBOOK\\Finally_LTW\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj"
               }
             }
           }
@@ -77,24 +78,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Document\\HCMUE\\Năm II\\Lập trình windows\\Finally_LTWin\\QLBOOK\\ManageBookDAO\\MangeBookDAO.csproj": {
+    "D:\\QLBOOK\\Finally_LTW\\QLBOOK\\ManageBookDAO\\MangeBookDAO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Document\\HCMUE\\Năm II\\Lập trình windows\\Finally_LTWin\\QLBOOK\\ManageBookDAO\\MangeBookDAO.csproj",
+        "projectUniqueName": "D:\\QLBOOK\\Finally_LTW\\QLBOOK\\ManageBookDAO\\MangeBookDAO.csproj",
         "projectName": "MangeBookDAO",
-        "projectPath": "D:\\Document\\HCMUE\\Năm II\\Lập trình windows\\Finally_LTWin\\QLBOOK\\ManageBookDAO\\MangeBookDAO.csproj",
-        "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
-        "outputPath": "D:\\Document\\HCMUE\\Năm II\\Lập trình windows\\Finally_LTWin\\QLBOOK\\ManageBookDAO\\obj\\",
+        "projectPath": "D:\\QLBOOK\\Finally_LTW\\QLBOOK\\ManageBookDAO\\MangeBookDAO.csproj",
+        "packagesPath": "C:\\Users\\baou6\\.nuget\\packages\\",
+        "outputPath": "D:\\QLBOOK\\Finally_LTW\\QLBOOK\\ManageBookDAO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\truon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\baou6\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -103,14 +104,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Document\\HCMUE\\Năm II\\Lập trình windows\\Finally_LTWin\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj": {
-                "projectPath": "D:\\Document\\HCMUE\\Năm II\\Lập trình windows\\Finally_LTWin\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj"
+              "D:\\QLBOOK\\Finally_LTW\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj": {
+                "projectPath": "D:\\QLBOOK\\Finally_LTW\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj"
               }
             }
           }
@@ -151,24 +153,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Document\\HCMUE\\Năm II\\Lập trình windows\\Finally_LTWin\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj": {
+    "D:\\QLBOOK\\Finally_LTW\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Document\\HCMUE\\Năm II\\Lập trình windows\\Finally_LTWin\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj",
+        "projectUniqueName": "D:\\QLBOOK\\Finally_LTW\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj",
         "projectName": "ManageBookDTO",
-        "projectPath": "D:\\Document\\HCMUE\\Năm II\\Lập trình windows\\Finally_LTWin\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj",
-        "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
-        "outputPath": "D:\\Document\\HCMUE\\Năm II\\Lập trình windows\\Finally_LTWin\\QLBOOK\\ManageBookDTO\\obj\\",
+        "projectPath": "D:\\QLBOOK\\Finally_LTW\\QLBOOK\\ManageBookDTO\\ManageBookDTO.csproj",
+        "packagesPath": "C:\\Users\\baou6\\.nuget\\packages\\",
+        "outputPath": "D:\\QLBOOK\\Finally_LTW\\QLBOOK\\ManageBookDTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\truon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\baou6\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -177,6 +179,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -221,7 +224,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
